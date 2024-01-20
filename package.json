@@ -1,9 +1,0 @@
-{
-  "scripts": {
-    "build": "npm i",
-    "start": "node ."
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
-}
